@@ -43,7 +43,6 @@ project/
 ├── routes/
 ├── middlewares/
 ├── utils/
-├── config/
 └── app.js
 
 ---
@@ -92,7 +91,6 @@ Users
 - "GET /api/users"
 - "GET /api/users/:id"
 - "PUT /api/users/:id"
-- "DELETE /api/users/:id"
 
 ---
 
